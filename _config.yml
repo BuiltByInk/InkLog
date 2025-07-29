@@ -1,0 +1,9 @@
+title: InkLog
+description: "Writing about building OpsCheckr and other Projects"
+remote_theme: just-the-docs/just-the-docs
+colour_scheme: light
+
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-feed
